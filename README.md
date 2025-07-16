@@ -20,7 +20,7 @@ stages.txt: A text file containing the hangman stages, separated by ###.
 # Requirements
 Python 3.x
 
-#Setup
+# Setup
 1. Clone the repository or download the files.
 
 2. Ensure you have Python 3.x installed on your system.
