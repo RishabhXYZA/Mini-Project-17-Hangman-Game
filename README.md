@@ -13,9 +13,9 @@ The game provides visual feedback using hangman stages, showing the player's pro
 6. The game ends when the player guesses the word correctly or runs out of tries.
 
 # Files
-hangman.py: The main script to run the Hangman game.
-words.txt: A text file containing a list of words for the game.
-stages.txt: A text file containing the hangman stages, separated by ###.
+1. hangman.py: The main script to run the Hangman game.
+2. words.txt: A text file containing a list of words for the game.
+3. stages.txt: A text file containing the hangman stages, separated by ###.
 
 # Requirements
 Python 3.x
